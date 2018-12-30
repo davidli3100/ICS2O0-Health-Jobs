@@ -20,3 +20,7 @@ Solutions architects create the overall technical vision for business solutions 
 ### MIT Computer Science (Bachelor Program)
   MIT has one of the world's foremost undergraduate CS programs. Offering many concentrations of CS to students such as AI, Software Development, Database Administration and blockchain. In addition to rigorous courseloads, studying at MIT provides great opportunities for Co-op placements, networking with highly successful people and recognition during hiring processes.
 
+### Sources:
+
+Dad, My. _My Dad_. Mississauga. Accessed on December 14th, 2018
+“Undergraduate Programs.” Homepage | MIT EECS, www.eecs.mit.edu/academics-admissions/undergraduate-programs.
